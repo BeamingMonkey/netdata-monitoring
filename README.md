@@ -52,3 +52,13 @@ cpp
 Copy
 Edit
 http://<VM-IP>:19999
+## 📷 Screenshots
+
+**System Overview**  
+![System Overview](screenshots/system-overview.png)
+
+**Docker Containers Metrics**  
+![Containers](screenshots/containers.png)
+
+**Health Alerts**  
+![Health Alerts](screenshots/health-alerts.png)

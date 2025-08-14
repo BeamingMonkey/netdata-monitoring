@@ -52,33 +52,3 @@ cpp
 Copy
 Edit
 http://<VM-IP>:19999
-📷 Screenshots
-System Overview
-
-Docker Containers Metrics
-
-Health Alerts
-
-⚠️ Make sure your screenshots are named exactly as above in the screenshots/ folder.
-
-📂 Repo Structure
-perl
-Copy
-Edit
-netdata-monitoring/
-├── README.md               # This guide
-├── docker-run-netdata.sh   # Docker run script
-├── screenshots/            # Dashboard screenshots
-│   ├── system-overview.png
-│   ├── containers.png
-│   └── health-alerts.png
-└── logs/                   # Optional: logs for reference
-    └── netdata.log
-🧹 Stop / Remove Container
-bash
-Copy
-Edit
-docker stop netdata
-docker rm netdata
-Author: Arun Raj
-Date: August 2025

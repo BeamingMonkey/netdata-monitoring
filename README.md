@@ -52,24 +52,3 @@ cpp
 Copy
 Edit
 http://<VM-IP>:19999
-📷 Screenshots
-System Overview
-
-Docker Containers Metrics
-
-Health Alerts
-
-⚠️ Make sure your screenshots are named exactly as above in the screenshots/ folder.
-
-🧹 Stop / Remove Container
-bash
-Copy
-Edit
-docker stop netdata
-docker rm netdata
-Author: Arun Raj
-Date: August 2025
-
-pgsql
-Copy
-Edit
